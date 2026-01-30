@@ -1,0 +1,24 @@
+# KiCad temporary files
+*.bak
+*.tmp
+*.kicad_prl
+*.kicad_sch-bak
+*.kicad_pcb-bak
+fp-info-cache
+_autosave-*
+*.lck
+~*.kicad_*
+
+# KiCad backups
+*-backups/
+
+# Netlists and reports
+*.net
+*.xml
+
+# Gerbers (generated files)
+gerbers/
+
+# OS junk
+Thumbs.db
+.DS_Store
