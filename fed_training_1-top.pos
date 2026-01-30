@@ -1,0 +1,39 @@
+### Footprint positions - created on 2026-01-30T22:56:14+0100 ###
+### Printed by KiCad version 9.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val              Package                                            PosX       PosY       Rot  Side
+C1        100_nF,_16_V     C_0201_0603Metric_Pad0.64x0.40mm_HandSolder    130.9000   -92.2325   90.0000  top
+C2        4.7_uF           CP_EIA-3216-10_Kemet-I                         136.5000   -93.3000  -90.0000  top
+C3        100_nF,_16_V     C_0201_0603Metric_Pad0.64x0.40mm_HandSolder    163.8908   -92.3507   90.0000  top
+C4        10_uF            CP_EIA-3216-10_Kemet-I                         129.2525   -95.8000    0.0000  top
+C5        100_nF,_16_V     C_0201_0603Metric_Pad0.64x0.40mm_HandSolder    136.8100   -90.5800    0.0000  top
+C6        10_uF            CP_EIA-3216-10_Kemet-I                         162.3060   -92.9341  -90.0000  top
+D1        LED_ARBG         LED_RGB_Wuerth-PLCC4_3.2x2.8mm_150141M173100   177.3500   -94.8600   90.0000  top
+D2        BAT54CW          SOT-323_SC-70                                  128.8182   -91.4500    0.0000  top
+D3        G_LED            LED_0805_2012Metric                            133.3000   -96.1000  180.0000  top
+J1        Conn_01x02       PinHeader_1x02_P1.27mm_Vertical                124.7000   -91.2000   90.0000  top
+J2        10118194-0001LF  USB_Micro_B_Female_10118194-0001LF             122.1750   -94.7845  -90.0000  top
+J3        Conn_01x05       PinHeader_1x05_P1.00mm_Horizontal              134.6747   -99.1250  -90.0000  top
+J4        Conn_01x04       PinHeader_1x04_P2.54mm_Vertical                157.8985   -98.3000   90.0000  top
+J5        Conn_01x04       PinHeader_1x04_P2.54mm_Vertical                173.8500   -90.8400    0.0000  top
+J6        Conn_01x02       PinHeader_1x02_P1.27mm_Vertical                176.8100   -90.6800   90.0000  top
+J7        Conn_01x02       PinHeader_1x02_P1.27mm_Vertical                178.0300   -98.9900  -90.0000  top
+Q1        2N7002           SOT-23                                         165.9841   -92.8952  -90.0000  top
+Q2        2N7002           SOT-23                                         169.5400   -92.2200  -90.0000  top
+Q3        2N7002           SOT-23                                         169.5450   -97.8000   90.0000  top
+R2        5_k              R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    125.2764   -93.5439    0.0000  top
+R3        5_k              R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    125.2000   -96.7675  180.0000  top
+R5        0                R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    125.0000   -98.3000    0.0000  top
+R6        10_k             R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    129.4000   -94.0000  180.0000  top
+R7        560              R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    165.6000   -95.6000  180.0000  top
+R8        220              R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    171.3500   -94.8000  -90.0000  top
+R9        220              R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    168.9196   -95.1321    0.0000  top
+R10       10_k             R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    147.5000   -95.8000    0.0000  top
+R11       10_k             R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    147.5000   -97.4000  180.0000  top
+R12       10_k             R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    136.5000   -98.1000  -90.0000  top
+SW1       SW_MEC_5E        SW_TH_Tactile_Omron_B3F-102x                   154.8000   -91.8037  -90.0000  top
+U1        PIC16F1829-IML   SSOP-20_5.3x7.2mm_P0.65mm                      141.5750   -95.0229   90.0000  top
+U2        KXTJ3-1057       Kionix_LGA-12_2x2mm_P0.5mm_LayoutBorder2x4y    158.4964   -93.1072  180.0000  top
+U3        TPS79333-EP      SOT-23-5                                       133.3625   -92.9500    0.0000  top
+## End

@@ -1,0 +1,21 @@
+Reference;Qty;Value;Footprint;Datasheet;Description
+C1,C3,C5;3;100 nF, 16 V;Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder;~;Unpolarized capacitor
+C2;1;4.7 uF;Capacitor_Tantalum_SMD:CP_EIA-3216-10_Kemet-I;~;Polarized capacitor
+C4,C6;2;10 uF;Capacitor_Tantalum_SMD:CP_EIA-3216-10_Kemet-I;~;Polarized capacitor
+D1;1;LED_ARBG;LED_SMD:LED_RGB_Wuerth-PLCC4_3.2x2.8mm_150141M173100;~;RGB LED, anode/red/blue/green
+D2;1;BAT54CW;Package_TO_SOT_SMD:SOT-323_SC-70;https://assets.nexperia.com/documents/data-sheet/BAT54W_SER.pdf;Dual schottky barrier diode, common cathode, SOT-323
+D3;1;G_LED;LED_SMD:LED_0805_2012Metric;~;Light emitting diode
+J1,J6,J7;3;Conn_01x02;Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical;~;Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)
+J2;1;10118194-0001LF;digikey-footprints:USB_Micro_B_Female_10118194-0001LF;http://www.amphenol-icc.com/media/wysiwyg/files/drawing/10118194.pdf;CONN RCPT USB2.0 MICRO B SMD R/A
+J3;1;Conn_01x05;Connector_PinHeader_1.00mm:PinHeader_1x05_P1.00mm_Horizontal;~;Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)
+J4,J5;2;Conn_01x04;Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical;~;Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)
+Q1,Q2,Q3;3;2N7002;Package_TO_SOT_SMD:SOT-23;https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF;MOSFET N-CH 60V 115MA SOT-23
+R1,R4,R6,R10,R11,R12;6;10 k;Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder;~;Resistor
+R2,R3;2;5 k;Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder;~;Resistor
+R5,R13,R14,R15;4;0;Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder;~;Resistor
+R7;1;560;Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder;~;Resistor
+R8,R9;2;220;Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder;~;Resistor
+SW1;1;SW_MEC_5E;Button_Switch_THT:SW_TH_Tactile_Omron_B3F-102x;http://www.apem.com/int/index.php?controller=attachment&id_attachment=1371;MEC 5E single pole normally-open tactile switch
+U1;1;PIC16F1829-IML;Package_SO:SSOP-20_5.3x7.2mm_P0.65mm;http://ww1.microchip.com/downloads/en/DeviceDoc/41440C.pdf;Flash-Based, 8-Bit CMOS Microcontrollers, QFN
+U2;1;KXTJ3-1057;Package_LGA:Kionix_LGA-12_2x2mm_P0.5mm_LayoutBorder2x4y;https://kionixfs.azureedge.net/en/datasheet/KXTJ3-1057-Specifications-Rev-5.0.pdf;±2g / 4g / 8g / 16g Tri-Axis Digital Accelerometer, I2C, 1.71-3.6V, LGA-12
+U3;1;TPS79333-EP;Package_TO_SOT_SMD:SOT-23-5;http://www.ti.com/lit/ds/symlink/tps79333-ep.pdf;200mA UltraLow-Noise, High-Precision, Fast RF, Low Drop-out Voltage Regulator, Fixed Output 3.3V, SOT-23
